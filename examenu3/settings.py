@@ -54,7 +54,7 @@ ROOT_URLCONF = 'examenu3.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/Angel/Desktop/djangoPasos/prueba3/templates/"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
